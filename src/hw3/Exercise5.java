@@ -9,7 +9,7 @@ public class Exercise5 {
         x = 3;
         n = 2;
 
-        System.out.println(calculateDegree(x, n));
+        System.out.println("Result is " + calculateDegree(x, n));
     }
 
     private static int calculateDegree(int x, int n) {

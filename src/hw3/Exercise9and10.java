@@ -7,7 +7,6 @@ public class Exercise9and10 {
         Scanner scannerNumbers = new Scanner(System.in);
         System.out.println("Enter numbers to the array in one line: ");
         String stringOfNumbers = scannerNumbers.nextLine();
-
         String[] arrayOfString = stringOfNumbers.split(" ");
         int min = Integer.parseInt(arrayOfString[0]);
         int max = Integer.parseInt(arrayOfString[0]);

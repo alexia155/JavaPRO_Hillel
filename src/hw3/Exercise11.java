@@ -29,7 +29,7 @@ public class Exercise11 {
         arrayOfString[maxIndex] = Integer.toString(min);
         arrayOfString[minIndex] = Integer.toString(max);
 
-        for(String s : arrayOfString) {
+        for (String s : arrayOfString) {
             System.out.printf("%s ", s);
         }
 
