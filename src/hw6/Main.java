@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println("\n" + "-------- CATS --------");
         bagira.run(runDistance);
-        Cat.swim();
+        bagira.swim();
 
         System.out.println("\n" + "Number of all animals: " + Animals.animals_count );
         System.out.println("Number of all cats: " + Cat.cat_count);
