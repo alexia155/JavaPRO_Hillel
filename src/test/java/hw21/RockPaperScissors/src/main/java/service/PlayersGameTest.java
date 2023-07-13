@@ -1,13 +1,12 @@
 package hw21.RockPaperScissors.src.main.java.service;
 
+import hw21.RockPaperScissors.service.PlayersGame;
 import org.junit.jupiter.api.Test;
-import hw21.RockPaperScissors.src.main.java.exceptions.InvalidChoiceException;
+import hw21.RockPaperScissors.exceptions.InvalidChoiceException;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.junit.jupiter.api.Assertions.*;
 
 class PlayersGameTest {
 

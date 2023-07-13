@@ -1,5 +1,6 @@
 package hw21.RockPaperScissors.src.main.java.dto;
 
+import hw21.RockPaperScissors.dto.AnswerVariations;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

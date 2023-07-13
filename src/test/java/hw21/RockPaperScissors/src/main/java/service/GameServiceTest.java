@@ -1,5 +1,6 @@
 package hw21.RockPaperScissors.src.main.java.service;
 
+import hw21.RockPaperScissors.service.GameService;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
